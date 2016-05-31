@@ -1,2 +1,0 @@
-# google-analytics-study
-tic
